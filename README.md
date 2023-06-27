@@ -1,3 +1,3 @@
 # Ejs-Templating-Engine
 
-### Working EJS Javascript templating engine.
+### Working with EJS Javascript templating engine.
